@@ -33,7 +33,7 @@ function First() {
         </div>
         <div className="wrap1">
           <div className="wrap2">
-            <h1 className="title">Jujur Kasian</h1>
+            <h1 className="title">Juju Kasian</h1>
             <div className="ball"></div>
           </div>
           <img
