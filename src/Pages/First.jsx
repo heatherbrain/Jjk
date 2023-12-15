@@ -30,9 +30,6 @@ function First() {
           <p>
             <a href="#contact">Contact</a>
           </p>
-          <p>
-            <a href="#contact">User</a>
-          </p>
         </div>
         <div className="wrap1">
           <div className="wrap2">
